@@ -112,7 +112,7 @@ React ve TypeScript ile geliştirilmiş modern, responsive CV sitesi.
 1. Repository'yi klonlayın
 ```bash
 git clone https://github.com/burakcalisknn/cv-site.git
-cd cv-website
+cd cv-site
 ```
 
 2. Bağımlılıkları yükleyin
